@@ -7,5 +7,5 @@ def taskname_to_filename(taskname: str):
     file = open(filename, 'w')
     file.close()
 
-taskname = 'List of Multiples'
+taskname = 'Pluralize'
 taskname_to_filename(taskname)
