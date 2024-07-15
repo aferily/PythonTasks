@@ -1,3 +1,5 @@
+# https://edabit.com/challenge/LR98GCwLGYPSv8Afb
+
 def pluralize(lst):
 	plurals = set()
 	for elem in set(lst):
